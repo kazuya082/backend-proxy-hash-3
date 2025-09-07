@@ -1,5 +1,8 @@
 {
-    "name": "proxy-server",
+    "name": "backend-proxy-hash-3",
+    "version": "1.0.0",
+    "description": "A proxy server for handling hashed requests",
+    "main": "index.js",
     "type": "module",
     "scripts": {
         "start": "node index.js"
@@ -10,18 +13,15 @@
         "express": "^4.21.2",
         "node-fetch": "^3.3.2"
     },
-    "version": "1.0.0",
-    "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/gigihAja/backend-proxy-hash.git"
+        "url": "git+https://github.com/kazuya082/backend-proxy-hash-3.git"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
     "bugs": {
-        "url": "https://github.com/gigihAja/backend-proxy-hash/issues"
+        "url": "https://github.com/kazuya082/backend-proxy-hash-3/issues"
     },
-    "homepage": "https://github.com/gigihAja/backend-proxy-hash#readme",
-    "description": ""
+    "homepage": "https://github.com/kazuya082/backend-proxy-hash-3#readme",
+    "keywords": [],
+    "author": "kazuya082",
+    "license": "ISC"
 }
